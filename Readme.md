@@ -99,5 +99,8 @@ while True:                                                                     
 ```    
 
 - Screenshoot
+- Input
 ![input1](https://user-images.githubusercontent.com/56380765/72195972-cf17fe80-3447-11ea-8458-15453955be37.png)
 ![input2](https://user-images.githubusercontent.com/56380765/72196004-08e90500-3448-11ea-8801-77a11f4218a6.png)
+![input3](https://user-images.githubusercontent.com/56380765/72196118-b0fece00-3448-11ea-825a-aeb4f09f917a.png)
+![input4](https://user-images.githubusercontent.com/56380765/72196126-b78d4580-3448-11ea-9237-fdea98f7f15b.png)
