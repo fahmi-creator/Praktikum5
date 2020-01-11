@@ -104,3 +104,12 @@ while True:                                                                     
 ![input2](https://user-images.githubusercontent.com/56380765/72196004-08e90500-3448-11ea-8801-77a11f4218a6.png)
 ![input3](https://user-images.githubusercontent.com/56380765/72196118-b0fece00-3448-11ea-825a-aeb4f09f917a.png)
 ![input4](https://user-images.githubusercontent.com/56380765/72196126-b78d4580-3448-11ea-9237-fdea98f7f15b.png)
+
+- Output
+
+![Output5a](https://user-images.githubusercontent.com/56380765/72196175-020ec200-3449-11ea-82e6-dd17523545cd.png)
+![Output5b](https://user-images.githubusercontent.com/56380765/72196181-0a66fd00-3449-11ea-9ee4-8965bd697d26.png)
+![Output5c](https://user-images.githubusercontent.com/56380765/72196185-1226a180-3449-11ea-8922-79c6d9380ff9.png)
+![Output5d](https://user-images.githubusercontent.com/56380765/72196192-1a7edc80-3449-11ea-95ce-2a3bcf291a0c.png)
+![Output5e](https://user-images.githubusercontent.com/56380765/72196198-22d71780-3449-11ea-9667-31da8afcfce8.png)
+![Output5f](https://user-images.githubusercontent.com/56380765/72196202-28ccf880-3449-11ea-91d8-f7919403f3d8.png)
