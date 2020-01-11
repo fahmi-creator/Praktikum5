@@ -96,4 +96,7 @@ while True:                                                                     
 
     else:
         print("Pilih menu yang tersedia: ")                                                    ## Jika menu yang dipilih tidak valid, akan munmcul pesan tsb
-    ```    
+```    
+
+- Screenshoot
+![input2](https://user-images.githubusercontent.com/56380765/72196004-08e90500-3448-11ea-8801-77a11f4218a6.png)
